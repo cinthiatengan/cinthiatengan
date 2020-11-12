@@ -8,7 +8,7 @@
 </table>
 </center>  
 
-### **Welcome to my Github Page!**
+## **Welcome to my Github Page!**
 ***
 Hi guys! I'm Cinthia Tengan, a fresh graduated in Geophysics by the University of Sao Paulo  (2019).
 In the world of programmig, I consider myself a little child learning with excitiment and determination about programming,
@@ -16,6 +16,7 @@ even that I've already had some introductory steps in C at USP. Nowadays, I have
 in the Generation Brasil Java Developer Bootcamp, so in my repository you will see a lot of stuff that I'm learning and producing in this marvelous bootcamp.
 
 ***
+## **About me**  
 
 :fishing_pole_and_fish: Hobbies: Playing games on PC, watch anime, drawing and fishing.   
 :fork_and_knife: Favorite foods: Sushi, hamburguer and icecream.  
