@@ -22,7 +22,7 @@ in the Generation Brasil Java Developer Bootcamp, so in my repository you will s
 :earth_americas: Favorite place: Chicago US  
 :couple_with_heart: Boyfriend: Rafael Guisso  
 :dog: Pets: a dog (Bolt) and a cockatiel (Tico)  
-:four_leaf_clover: attoos: 2  
+:four_leaf_clover: Tattoos: 2  
 :anger: Hate: Preconception, fanaticism  
 
 ***
