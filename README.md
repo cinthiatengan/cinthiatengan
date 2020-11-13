@@ -27,7 +27,7 @@ I really like to stay at home, playing in my computer games like Overwatch and W
 
 ***
 
-##**Contact me!**
+## **Contact me!**
 
 <a href="mailto:cinthia.tengan@gmail.com?"><img src="https://live.staticflickr.com/65535/50597994176_19fccf96b5_m.jpg" width="16"/></a>[Email](mailto:cinthia.tengan@gmail.com)  
 <a href="https://www.linkedin.com/in/cinthia-tengan-5b643093"><img src="https://live.staticflickr.com/65535/50597967152_92aba19c7e_m.jpg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/cinthia-tengan-5b643093)      
