@@ -28,6 +28,15 @@ in the Generation Brasil Java Developer Bootcamp, so in my repository you will s
 
 ***
 
+##**Contact me!**
+
+<a href="mailto:cinthia.tengan@gmail.com?"><img src="https://live.staticflickr.com/65535/50597994176_19fccf96b5_m.jpg" width="16"/></a>[Email]
+<a href="https://www.linkedin.com/in/cinthia-tengan-5b643093"><img src="https://live.staticflickr.com/65535/50597967152_92aba19c7e_m.jpg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/cinthia-tengan-5b643093)    
+<a href="https://www.facebook.com/cinnfox89"><img src="https://live.staticflickr.com/65535/50597961652_7754ccdd4f.jpg" width="16"></img></a> [Facebook](https://www.facebook.com/cinnfox89)  
+<a href="https://www.instagram.com/cinnfox"><img src="https://live.staticflickr.com/65535/50597840461_ca2d9d782a.jpg" width="16"></img></a> [Instagram](https://www.instagram.com/cinnfox)
+<a href="https://twitter.com/CinnFox89"><img src="https://live.staticflickr.com/65535/50597840941_ff95af1ae0.jpg" width="16"></img></a> [Twitter](https://twitter.com/CinnFox89)
+
+***
 
 ![](https://komarev.com/ghpvc/?username=cinthiatengan&color=blue&style=flat)
 
