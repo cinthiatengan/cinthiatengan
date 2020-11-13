@@ -18,12 +18,10 @@ in the Generation Brasil Java Developer Bootcamp, so in my repository you will s
 ***
 ## **About me**  
 
-:fishing_pole_and_fish: Hobbies: Playing games on PC, watch anime, drawing and fishing.   
-:fork_and_knife: Favorite foods: Sushi, hamburguer and icecream.  
-:earth_americas: Favorite place: Chicago US  
+I really like to stay at home, playing in my computer games like Overwatch and World of Warcraft, watching anime (I have a personal profile in MyAnimeList). Sometimes I would spend some time drawing tattoos design, and rarely I go fishing because most of the time I'm broke, so I can't go so often :laughing: but its my favorite sport!      
+:fork_and_knife: Favorite foods: Sushi, hamburguer and icecream.   
 :couple_with_heart: Boyfriend: Rafael Guisso  
 :dog: Pets: a dog (Bolt) and a cockatiel (Tico)  
-:four_leaf_clover: Tattoos: 2  
 :anger: Hate: Preconception, fanaticism  
 
 ***
