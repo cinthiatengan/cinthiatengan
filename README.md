@@ -23,7 +23,7 @@ I really like to stay at home, playing in my computer games like Overwatch and W
 :fork_and_knife: Favorite foods: Sushi, hamburguer and icecream.   
 :couple_with_heart: Boyfriend: Rafael Guisso  
 :dog: Pets: a dog (Bolt) and a cockatiel (Tico)  
-:anger: Hate: Preconception, fanaticism  
+:anger: Hate: Prejudice, fanaticism  
 
 ***
 
