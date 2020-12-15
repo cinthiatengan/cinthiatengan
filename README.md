@@ -26,6 +26,9 @@ I really like to stay at home, playing in my computer games like Overwatch and W
 :anger: Hate: Prejudice, fanaticism  
 
 ***
+![banner](https://live.staticflickr.com/65535/50699962657_89eeb9a134_k.jpg)
+
+***
 
 ## **Contact me!**
 
@@ -38,5 +41,3 @@ I really like to stay at home, playing in my computer games like Overwatch and W
 ***
 
 ![](https://komarev.com/ghpvc/?username=cinthiatengan&color=blue&style=flat)
-
-
