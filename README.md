@@ -8,6 +8,10 @@
 </table>
 </center>  
 
+<div align="center">
+<img src="https://github.com/cinthiatengan/MyAssets/blob/main/img/catcoding.gif" align="center" style="width: 100%" />
+</div>  
+
 ### <div align="center">Hi all! I'm Cinthia Tengan a Java Web Developer Junior</div>  
   
 
