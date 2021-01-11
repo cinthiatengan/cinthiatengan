@@ -82,13 +82,30 @@ and now my dream is to make them reachable to everyone, to change our community 
 <br/>  
 
 
-## **Contact me!**
+## Connect with me  
+<div align="center">
+<a href="https://github.com/cinthiatengan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/CinnFox89" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cinthia-tengan-5b643093/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/cinnfox89" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/cinnfox" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<a href="mailto:cinthia.tengan@gmail.com?"><img src="https://live.staticflickr.com/65535/50597994176_19fccf96b5_m.jpg" width="16"/></a>[Email](mailto:cinthia.tengan@gmail.com)  
-<a href="https://www.linkedin.com/in/cinthia-tengan-5b643093"><img src="https://live.staticflickr.com/65535/50597967152_92aba19c7e_m.jpg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/cinthia-tengan-5b643093)      
-<a href="https://www.facebook.com/cinnfox89"><img src="https://live.staticflickr.com/65535/50597961652_7754ccdd4f.jpg" width="16"></img></a> [Facebook](https://www.facebook.com/cinnfox89)    
-<a href="https://www.instagram.com/cinnfox"><img src="https://live.staticflickr.com/65535/50597840461_ca2d9d782a.jpg" width="16"></img></a> [Instagram](https://www.instagram.com/cinnfox)  
-<a href="https://twitter.com/CinnFox89"><img src="https://live.staticflickr.com/65535/50597840941_ff95af1ae0.jpg" width="16"></img></a> [Twitter](https://twitter.com/CinnFox89)
+<br/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12184981717&cover_image=true&theme=default" /></div>  
+
+<br/>  
 
 ***
 
