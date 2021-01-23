@@ -18,7 +18,7 @@
 -  👩‍💻 I’m currently working on [I-mei](https://github.com/sthefany0011/I-mei) and Participating in Generation Brasil Java Web Developer Bootcamp  
   
 
-- 📚 I’m currently learning HTML and CSS (Front End)  
+- 📚 I’m currently learning Angular (Front End)  
 
 ***
 <div align="center">
