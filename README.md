@@ -15,10 +15,10 @@
 ### <div align="center">Hi all! I'm Cinthia Tengan a Java Web Developer Junior</div>  
   
 
--  👩‍💻 I’m currently working on [I-mei](https://github.com/sthefany0011/I-mei) and Participating in Generation Brasil Java Web Developer Bootcamp  
+-  👩‍💻 I’m currently finished [I-mei](https://github.com/sthefany0011/I-mei) and Graduated in Generation Brasil Java Web Developer Bootcamp! 
   
 
-- 📚 I’m currently learning Angular (Front End)  
+- 📚 I’m currently learning more about Java!  
 
 ***
 <div align="center">
