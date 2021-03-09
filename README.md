@@ -19,6 +19,8 @@
   
 
 - 📚 I’m currently learning more about Java!  
+  
+- 📚 And having fun doing single pages with Bootstrap. 
 
 ***
 <div align="center">
