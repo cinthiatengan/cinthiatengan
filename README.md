@@ -18,9 +18,9 @@
 -  👩‍💻 I've just finished [I-mei](https://github.com/sthefany0011/I-mei) and Graduated in Generation Brasil Java Web Developer Bootcamp! 
   
 
-- 📚 I’m currently learning more about Java!  
+- 📚 I’m currently learning more about Image Recognition and Python!  
   
-- 📚 And having fun doing single pages with Bootstrap. 
+- 📚 And having fun doing some python projects to test my skills. 
 
 ***
 <div align="center">
