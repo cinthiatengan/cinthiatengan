@@ -15,7 +15,7 @@
 ### <div align="center">Hi all! I'm Cinthia Tengan a Java Web Developer Junior</div>  
   
 
--  👩‍💻 I've just finished [I-mei](https://github.com/sthefany0011/I-mei) and Graduated in Generation Brasil Java Web Developer Bootcamp! 
+-  👩‍💻 I've just finished Graduated in Generation Brasil Java Web Developer Bootcamp! 
   
 
 - 📚 I’m currently learning more about Python3!  
@@ -30,14 +30,7 @@ forward to the technology area. Because technology was always with me, since I w
 when I used to enjoy spending lots of time playing video games and computer games like warcraft II, 
 a real time strategy game.  Nowadays, this passion surpases time, because I still play online games when I 
 have some free time, meeting new people, enhancing my english, learning strategy and most importantly, 
-having fun. Having this opportunity to participate in the Generation Brazil Java Web Developer Junior, 
-has granted me much more than just hard and soft skills, like the real understanding that we are capable 
-to learn everything we want if we put effort and determination in it. We just need an opportunity to 
-prove our valor independent of the color of our skin, gender, social class and sexual orientation. 
-That's what I believe and I hope in the future I can return all the good opportunities I had access 
-to other people who wouldn’t have the same living conditions that I had like financial support from
-my parents, living in a not violent environment, good health support, etc. Opportunity changes lives, 
-and now my dream is to make them reachable to everyone, to change our community inside out.   
+having fun.
 </div>
 
 ***
