@@ -17,7 +17,6 @@
 
 -  👩‍💻 I've just Graduated in Generation Brasil Java Web Developer Bootcamp! 
   
-
 - 📚 I’m currently learning more about Python3!  
   
 - 📚 And having fun doing some python projects to test my skills. 
