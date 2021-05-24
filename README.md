@@ -15,7 +15,7 @@
 ### <div align="center">Hi all! I'm Cinthia Tengan</div>  
   
 
--  👩‍💻 I've just Graduated in Generation Brasil Java Web Developer Bootcamp! 
+- 👩‍💻 I've just Graduated in Generation Brasil Java Web Developer Bootcamp! 
   
 - 📚 I’m currently learning more about Python3!  
   
