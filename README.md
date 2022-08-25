@@ -15,15 +15,15 @@
 ### <div align="center">Hi all! I'm Cinthia Tengan</div>  
   
 
-- 👩‍💻 I've just Graduated in Generation Brasil Java Web Developer Bootcamp! 
+- 👩‍💻 I'm a junior data engineer at Bees!
   
-- 📚 I’m currently learning more about Python3!  
+- 📚 I’m currently learning doing a MBA in Data Engineer!  
   
 - 📚 And having fun doing some python projects to test my skills. 
 
 ***
 <div align="center">
-    I’m 31 years old, born and raised in Brazil. I really like to be in a change transition, 
+    I’m 32 years old, born and raised in Brazil. I really like to be in a change transition, 
 seeking for new challenges, that's why even though I am a graduated geo scientist, I’m looking 
 forward to the technology area. Because technology was always with me, since I was a little child 
 when I used to enjoy spending lots of time playing video games and computer games like warcraft II, 
