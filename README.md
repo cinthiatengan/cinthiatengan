@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/jzCDoAM.png)
+![Banner](https://github.com/cinthiatengan/MyAssets/blob/main/img/Inspiring%20Sky%20Blue%20Facebook%20Cover%20(1).png)
 <center>
 <table>
     <tr>
