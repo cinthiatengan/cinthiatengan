@@ -15,7 +15,7 @@
 ### <div align="center">Hi all! I'm Cinthia Tengan</div>  
   
 
-- 👩‍💻 I'm a junior data engineer at Bees!
+- 👩‍💻 I'm a Big Data engineer at Bees!
   
 - 📚 I’m currently learning doing a MBA in Data Engineer!  
   
